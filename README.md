@@ -16,11 +16,11 @@ Bot will send last 5 messages for each number in each request. So use number and
 # ⚝ Installation
 1. **Clone repository**:
     ```bash
-    git clone https://github.com/Kourva/OnlineSimBot
+    git clone https://github.com/Coolli0/coollio
     ```
 2. **Navigate to OnlineSimBot**:
     ```bash
-    cd OnlineSimBot
+    cd coollio
     ```
 3. **Activate Virtual Environment**:
     ```bash
